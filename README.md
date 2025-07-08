@@ -68,7 +68,7 @@ Production-ready ML system for churn prediction and segmentation.
 
 - 📍 Jakarta, Indonesia  
 - 📧 [azhar7ali@gmail.com](mailto:azhar7ali@gmail.com)  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/azhar-muhammad-05a20624a/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/azhar-muhammad-05a20624a/)  
 - 💻 [GitHub](https://github.com/azharmuhammad-3124)  
 
 Thanks for visiting my profile!  
